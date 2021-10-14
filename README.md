@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItumelengKekana
 - 👀 I’m interested in web development which includes front-end and back-end.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React and React Native
 - 📫 How to reach me = kekanaitumeleng7@gmail.com.
 
 <!---
