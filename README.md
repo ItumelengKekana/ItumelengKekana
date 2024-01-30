@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItumelengKekana
 - 👀 I’m interested in web development which includes front-end and back-end.
-- 🌱 I’m currently learning .NET Core, Angular. 
+- 🌱 I’m currently learning .NET Core. 
 - 📫 How to reach me = itumelengkekanaw@gmail.com.
 
 <!---
