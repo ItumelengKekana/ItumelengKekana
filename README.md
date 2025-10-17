@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @ItumelengKekana
-- 👀 I’m interested in full stack web development.
-- 🌱 I’m currently learning .NET Core. 
+- 👀 I use React for the front end currently.
+- ⚒️ I'm currently using .NET Core for some projects and Nestjs for others on the back end.
+- 🖥️ I use Mysql and MSSQL for database interaction.
+- 🌱 I’m currently learning to work with module bundlers such as Vite 
 - 📫 How to reach me = itumelengkekanaw@gmail.com.
 
 <!---
